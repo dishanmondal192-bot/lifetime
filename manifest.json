@@ -1,0 +1,11 @@
+{
+  "name": "LifeTime",
+  "short_name": "LifeTime",
+  "start_url": "/lifetime/",
+  "scope": "/lifetime/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a0312",
+  "theme_color": "#ff2e63",
+  "description": "LifeTime Social App"
+}
