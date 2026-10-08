@@ -7,5 +7,19 @@
   "orientation": "portrait",
   "background_color": "#1a0312",
   "theme_color": "#ff2e63",
-  "description": "LifeTime Social App"
+  "description": "LifeTime Social App",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/dishanmondal192-bot/lifetime/main/FB_IMG_1791176328960%20(2).jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dishanmondal192-bot/lifetime/main/FB_IMG_1791176328960%20(2).jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
 }
